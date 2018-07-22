@@ -11,9 +11,9 @@ audiences.
 ## Current Features
 
 - Generate keys
- - Generate a prime number
-  - Generate a large number
-  - Primality check (Miller-Rabin)
+   - Generate a prime number
+       - Generate a large number
+       - Primality check (Miller-Rabin)
 - Encrypt a number (given public key and n)
 - Decrypt a number (given private key and n)
 
