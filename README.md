@@ -22,9 +22,9 @@ audiences.
 
 - Store keys/outputs as std::string so the user doesn't need to deal 
 with GMP
-- Header guards and standard formatting
-- Comments :-)
-- Standalone compiling
+- More header guards/standardized formatting
+- More comments :-)
+- Standalone compiling (without requiring Git)
 
 
 ## Requirements
