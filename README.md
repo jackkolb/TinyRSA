@@ -24,7 +24,7 @@ audiences.
 with GMP
 - More header guards/standardized formatting
 - More comments :-)
-- Standalone compiling (without requiring Git)
+- Standalone compiling (without requiring GMP)
 
 
 ## Requirements
